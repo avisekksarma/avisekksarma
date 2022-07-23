@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **OpenGL**
 
-- 💬 Ask me about **python, linux and web technologies**
+- I have keen interest in  **linux ,web technologies and python**
 
 - 📫 How to reach me **avinepal2017@gmail.com**
 
