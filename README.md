@@ -2,8 +2,6 @@
 <h3 align="center">A passionate tech enthusiast from Nepal</h3>
 
 
-- 🔭 I’m currently working on **Machine Learning and AI**
-
 - I have keen interest in  **linux ,web technologies and python**
 
 - 📫 How to reach me **avinepal2017@gmail.com**
