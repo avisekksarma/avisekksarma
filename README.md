@@ -2,7 +2,7 @@
 <h3 align="center">A passionate tech enthusiast from Nepal</h3>
 
 
-- I have keen interest in  **linux ,web technologies and python**
+- I have keen interest in  **linux ,web technologies and ML/AI**
 
 - 📫 How to reach me **avinepal2017@gmail.com**
 
