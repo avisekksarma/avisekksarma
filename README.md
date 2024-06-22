@@ -2,7 +2,7 @@
 <h3 align="center">A passionate tech enthusiast from Nepal</h3>
 
 
-- I have keen interest in  **AI, Blockchain, linux and web technologies**
+- I have keen interest in  **Web technologies, System Design, Backend , Design Pattern and AI**
 
 - 📫 How to reach me **avinepal2017@gmail.com**
 
